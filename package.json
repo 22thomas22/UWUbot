@@ -1,0 +1,15 @@
+{
+  "name": "uwubot",
+  "version": "1.0.0",
+  "description": "A Simple Bot for some Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "/uwu hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "UWUbot"
+  },
+  "author": "",
+  "license": "ISC"
+}
